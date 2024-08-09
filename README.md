@@ -37,7 +37,7 @@ Outcome: Class variable (0 or 1) where 1 indicates the presence of diabetes
 
 6. Evaluating Model Let's estimate, how accurately the classifier or model can predict the type of cultivars. Accuracy can be computed by comparing actual test set values and predicted values.
 
-7.Visualizing Decision Trees
+ 7. Visualizing Decision Trees
 
 <h2>Conclusion</h2>
 
